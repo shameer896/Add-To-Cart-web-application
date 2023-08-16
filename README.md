@@ -1,6 +1,6 @@
 <h1>Add To Cart</h1>
-A simple Add To Cart web application using HTML,CSS Javascript and firebase (for storing realtime data)<br>
-click <a href="https://shameer-add-to-cart.netlify.app/">here</a>to visit the web application
+A simple Add To Cart web application using HTML,CSS Javascript and firebase (for storing realtime data)<br><br>
+click <a href="https://shameer-add-to-cart.netlify.app/">here</a> to visit the web application
 <br><br>
 You can use this web application into your android/ios
 <h3>Adding a Web App to Android Home Screen</h3>
